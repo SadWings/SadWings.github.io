@@ -16,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {title: "About", url: "/About.html", icon: About}
+  - {title: "About", url: "About.html", icon: About}
   - {title: "Lab", url: "https://childlanglab.com"}
   - {title: "Blog", file: "blog.md"}
 
