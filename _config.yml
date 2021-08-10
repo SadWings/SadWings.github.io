@@ -23,7 +23,6 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:16651243@students.southwales.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/SadWings"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/kathrynschuler"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
