@@ -1,6 +1,6 @@
-title: "Kathryn Schuler"
-author: "Katie Schuler"
-description: "University of Pennsylvania"
+title: "Guide To Online Privacy"
+author: "Ieuan Paynter"
+description: "A simple guide to online privacy, designed to me easily read and understood by readers of all technical knowledge"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,8 +21,8 @@ navigation:
   - {title: "Blog", file: "blog.md"}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
+  - {title: Mail, icon: envelope, url: "mailto:16651243@students.southwales.ac.uk"}
+  - {title: Github, icon: github, url: "https://github.com/SadWings"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/kathrynschuler"}
 
 comments:
