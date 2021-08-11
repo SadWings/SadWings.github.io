@@ -18,3 +18,11 @@ Method One - Social Media Awareness
 
 There are many differnet ways to care for your online privacy. Social media can be a tool used for breaching privacy, and that this is usually down to the users own actions. While social media has opened up many new ground-breaking forms of social interactions and job opportunities, what users post to their feeds matter. A simple photo of your front door or location check-in could lead to an attempted burglary. In order to incrase your level of privacy, make sure that you are not sharing your location, posting your frequent whereabouts, or sharing posts that could be used to hurt you in the future (watch your digital footprint.) In some more harcore cases you may want to delete your social media profiles on platforms such as Faceboook, Instagram, or twitter. This is however a "trade" scenario, you will gain increased privacy, but lose access to social media. This could lead to being left out of social events, or even job opportunities. Being aware of what you post, and where you post it is crucial in protecting your online privacy.
 
+
+
+
+---
+Method Two - Location Services
+A lot of the apps and services we use today may now ask or in some cases even require the user to have their location services turned on. Depending on what you're doing and the reason the app uses these services, it is always good privacy practice to regulate what apps you give this permission to, and remeber to turn your location services off when not needed.
+
+
