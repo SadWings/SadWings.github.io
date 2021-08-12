@@ -71,3 +71,11 @@ For complete beginners or people that want the least amount of hassle I would re
 <img src= "assets/brave.JPG" width="500">
 
 
+---
+**Method Six - Email**
+Making use of just one email for all of your accounts is the norm for most people that use the web. This however, is a big threat to your online privacy. Having all of your accounts linked to one email could lead to them all being compromised. Make sure to use different email accounts for different things. For example, create an email address to use just for shopping, one for social media, one for work, and one for your banking information. Obviously this may be a trade off for ease of use, as you will have to remember more information, but this will prevent one data breach from leading to many, and will increase your level of secuirty. 
+
+The best way to maximise your email privacy is to use email that is encrypted. Switching to email services such as Protonmail that offer encrypted email and excellent services for free is a reccomendation.
+
+
+
