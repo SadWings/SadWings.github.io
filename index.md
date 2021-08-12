@@ -39,6 +39,7 @@ A password manager is simply put, an app or program that store your passwords se
 - Have military grade encryption 
 - Generate strong passwords
 - Save your other data such as payment information
+
 These key points are what make a good password manager. A few recommendations are NordPass, and Bitwarden.
 Keep in mind that a "master password" will be needed to use a password manager. So either spend some time thinking of a strong one or make use of a generator.
 
