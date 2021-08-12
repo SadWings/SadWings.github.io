@@ -11,8 +11,8 @@ The site offers a simple guide that is delivered as a ‘package’ that covers 
 
 
 
-<img src= "assets/poster.jpg" width="400">
 
+![poster](/assets/poster.JPG) 
 
 ---
 The dissertation report can be downloaded here:
