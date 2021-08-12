@@ -81,4 +81,14 @@ For a more advanced level of security and privacy, switching your email provider
 <img src= "assets/protonmail.JPG" width="1000">
 
 
+---
+**Method Seven - Secure Sites**
+
+When using the web there are signs to look out for so that you know a website is safe and legitimate. The big one is what is known as HTTPS (hyper transfer protocol secure) This is to form secure encrypted connections across the internet. All websites, especially those that require you to login, or use payment methods should use HTTPS. Most broswers such as Chrome, safari, or Firefox will clearly show the reader when a site is not secure.
+
+<img src= "assets/chromesecure.JPG" width="500">
+
+<img src= "assets/firefoxsecure.JPG" width="500">
+
+You should **always make sure that sites are https secure before entering login credentials, or payment informaton.**
 
