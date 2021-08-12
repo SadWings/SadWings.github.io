@@ -68,7 +68,7 @@ This can be done by navigating to the browser settings in your browser and chang
 
 For complete beginners or people that want the least amount of hassle I would recommend using either Brave or Firefox.  Firefox is one of the most popular browsers in the world, and for good reason, the level of customization users have is excellent. Firefox has a massive selection of free user made add-ons such as “no script extension”, or “ublock origin” that can do anything from change your theme, to lock Facebook and it’s tracking techniques in a box. Firefox also has as function that lets users create specific profiles for privacy that can be copied and used within a few clicks. Brave, created by ex-co-founders of Firefox, is a privacy focused browser that has all the features of a privacy set up Firefox built in from install. Brave features high level script blockers, ad blockers, and cookie blockers, that are activated as default. 
  
-<img src= "assets/brave.JPG" width="650">
+<img src= "assets/brave.JPG" width="800">
 
 
 ---
@@ -78,7 +78,7 @@ Making use of just one email for all of your accounts is the norm for most peopl
 
 For a more advanced level of security and privacy, switching your email provider to one that is encrypted is a good step. Switching to email services such as Protonmail that offer encrypted email and excellent services for free will increase your level of privacy, and stop third parties from tracking your data.
 
-<img src= "assets/protonmail.JPG" width="800">
+<img src= "assets/protonmail.JPG" width="1000">
 
 
 
