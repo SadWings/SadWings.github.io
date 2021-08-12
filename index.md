@@ -29,5 +29,7 @@ A lot of the apps and services we use today may now ask or in some cases even re
 <img src= "assets/servicesettings.JPG" width="400">
 
 
-
+---
+**Method Three - Password Management**
+Making sure that your accounts are secure with a strong password is not only vital to your online privacy, but also to your general cyber secuirty. 
 
