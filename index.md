@@ -31,5 +31,17 @@ A lot of the apps and services we use today may now ask or in some cases even re
 
 ---
 **Method Three - Password Management**
-Making sure that your accounts are secure with a strong password is not only vital to your online privacy, but also to your general cyber secuirty. 
+
+Making sure that your accounts are secure with a strong password is not only vital to your online privacy, but also to your general cyber secuirty. If you password is weak it can easily be cracked and used to gain access to your account. This is also the reason why you should **never use the same password for different accounts** A long and memorable phrase with some special charcters, such as numbers or symbols is the best practise for secure passwords.
+Making use of a password generator, that generates strong passwords is also a good idea. These will however, be harder to remember and may therefore require a password manager. 
+
+A password manager is simply put, an app or program that store your passwords securely. Some password managers will be better than others, some may require a subscription, and some will be more trustworthy. A good password managers needs to do a number of things, these are:
+- Have military grade encryption 
+- Generate strong passwords
+- Save your other data such as payment information
+These key points are what make a good password manager. A few recommendations are NordPass, and Bitwarden.
+Keep in mind that a "master password" will be needed to use a password manager. So either spend some time thinking of a strong one or make use of a generator.
+
+
+
 
