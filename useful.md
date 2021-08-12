@@ -26,11 +26,16 @@ uBlock origin is a free to use browser extension, that filters web content. It i
 ![ublock](/assets/ublock.JPG)
 
 ---
-![Facebook Container](https://addons.mozilla.org/en-GB/firefox/addon/facebook-container/)
+- [Facebook Container](https://addons.mozilla.org/en-GB/firefox/addon/facebook-container/)
 Facebook container is a free browser extentions that prevents Facebook from tracking you when browsing the web. The extension isolates your Facebook profile into a 'container' so that Facebook cannot track you on other sites using its cookies. This is a great tool for privacy and is highly reccomended, there are some downsides however. The main being that some of Facebooks sharing functionality will no longer work as intended. 
 
 ![container](/assets/container.JPG)
 
+---
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+HTTPS everywhere is another free to use browser extension that it highly recommended for not only your privacy, but security too. The extension automatically makes sure that sites visited use HTTPS so that you're secure. 
+
+![https](/assets/https.JPG)
 
 
 
