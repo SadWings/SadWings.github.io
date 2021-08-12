@@ -78,7 +78,7 @@ Making use of just one email for all of your accounts is the norm for most peopl
 
 For a more advanced level of security and privacy, switching your email provider to one that is encrypted is a good step. Switching to email services such as Protonmail that offer encrypted email and excellent services for free will increase your level of privacy, and stop third parties from tracking your data.
 
-<img src= "assets/protonmail.JPG" width="500">
+<img src= "assets/protonmail.JPG" width="800">
 
 
 
