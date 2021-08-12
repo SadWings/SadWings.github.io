@@ -48,6 +48,7 @@ Keep in mind that a "master password" will be needed to use a password manager. 
 
 ---
 **Method Four - Two Factor Authentication (2FA)**
+
 Two factor authentication is a simple security system that requires two different types of identification to gain access to your account. Most commonly is a password and some form of code that is usually sent to the user securly via sms or email.
 Using an app such as Google's 2step verification will allow you to generate one time password (OTP) that can only be used once, and with the linked account. 
 
