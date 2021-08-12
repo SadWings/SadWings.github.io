@@ -16,4 +16,4 @@ The site offers a simple guide that is delivered as a ‘package’ that covers 
 
 ---
 The dissertation report can be downloaded here:
-![Report](/assets/An Investigation Into How Engaged People Are In Online Privacy Issues Complete.pdf)
+![Report](/assets/report.pdf)
