@@ -96,9 +96,24 @@ You should **always make sure that sites are https secure before entering login 
 ---
 **Method Eight - VPN**
 
-On of the most secure ways to safeguard your privacy is to use a VPN (virtual private network) These are tools that connect to the interent anonymously by masking your IP address. This not only increases your privacy but also your security. Connecting to a public network such as free wifi in a cafe can leave your data vulnerable to eavsdroppers. Depending on what you're doing at the time, messages, log-in information or even banking details could be viewed by others.
+On of the most secure ways to safeguard your privacy is to use a VPN (virtual private network) These are tools that connect to the interent anonymously by masking your IP address. This not only increases your privacy but also your security. Connecting to a public network such as free wifi in a cafe can leave your data vulnerable to eavsdroppers. Depending on what you're doing at the time, messages, log-in information, or even banking details could be viewed by others. VPN's will hide mask your data so that you can use the internt anonymously.
 
 <img src= "assets/vpn.JPG" width="500">
 
-There are different types of VPN's available, some are more secure than others, some are free, and some require a subscription.
+There are different types of VPN's available, some are more secure than others, some are free, and some require a subscription. Some of the best options to choose from are below:
+
+Paid:
+- NordVPN
+- Private Internet Access
+- Surfshark
+- ExpressVPN
+
+
+Free:
+- ProtonVPN
+- Windscribe
+- Hide.me
+
+
+
 
