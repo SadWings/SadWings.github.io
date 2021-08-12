@@ -55,6 +55,10 @@ Using an app such as Google's 2step verification will allow you to generate one 
 <img src= "assets/2fa.JPG" width="400">
 
 
+---
+**Method Five - Browser**
+
+The basic and most popular search engines such as Google chrome, Edge, or Safari, while convenient, will track you if not altered. This can be done by navigating to the browser settings and changing a few options under the privacy section. While this may offer some level of increased privacy, even at a basic level this is not much. Switching to browsers such as Mozilla Firefox, and Brave, in conjunction with the use of browsers such as DuckDuckGo, or SearX, will be a big step in stopping data collection and increasing your online privacy. For complete beginners or people that want the least amount of hassle I would recommend using either Brave or Firefox.  Firefox is one of the most popular browsers in the world, and for good reason, the level of customization users have is excellent. Firefox has a massive selection of free user made add-ons such as “no script extension”, or “ublock origin” that can do anything from change your theme, to lock Facebook and it’s tracking techniques in a box. Firefox also has as function that lets users create specific profiles for privacy that can be copied and used within a few clicks. Brave, created by ex-co-founders of Firefox, is a privacy focused browser that has all the features of a privacy set up Firefox built in from install. Brave features high level script blockers, ad blockers, and cookie blockers, that are activated as default.
 
 
 
