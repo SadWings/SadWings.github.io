@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "About", file: "about.md", icon: About}
-  - {title: "Useful Tools", file: "useful.html"}
+  - {title: "Useful Tools", file: "useful.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:16651243@students.southwales.ac.uk"}
