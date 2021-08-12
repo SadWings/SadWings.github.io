@@ -16,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {title: "About", file: "About.html", icon: About}
+  - {title: "About", file: "about.md", icon: About}
   - {title: "Useful Tools", file: "useful.html"}
 
 external:                  # see http://fontawesome.com/icons
