@@ -92,3 +92,9 @@ When using the web there are signs to look out for so that you know a website is
 
 You should **always make sure that sites are https secure before entering login credentials, or payment informaton.**
 
+
+---
+**Method Eight - VPN**
+
+On of the most secure ways to safeguard your privacy is to use a VPN (virtual private network) These are tools that connect to the interent anonymously by masking your IP address. This not only increases your privacy but also your security. Connecting to a public network such as free wifi in a cafe can leave your data vulnerable to eavsdroppers. 
+
