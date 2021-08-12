@@ -11,7 +11,10 @@ This data can then be used for a huge number of various reasons, some of these r
 This is all done without the vast majority of online users having any protections against their data being collected. This privacy guide will help you to be more private and safe when using the internet.
 
 
+It should also be noted that this guide is best paired and should be used in conjunction with my report. The report covers information such as why you should care about your online privacy, how it's being effected, and the aims & objectives of the project. THe report can be found on the 'about page'.
 
+
+**It must be stated that this guide *IS NOT PROFESSIONAL ADVICE* **
 
 ---
 **Method One - Social Media Awareness**
