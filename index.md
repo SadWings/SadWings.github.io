@@ -112,8 +112,8 @@ Paid:
 Free:
 - ProtonVPN
 - Windscribe
-- Hide.me
+- Hide-me
 
+<img src= "assets/nord.JPG" width="500">
 
-
-
+Another benefit to using a VPN is that it can let you access extra content on streaming platforms like Netflix. These platforms will only show certain films of series in certain countries. This can be worked around by using a VPN. Chaniging your IP address to a location like the U.S will let you access all the content that you usually couldn't.
