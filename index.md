@@ -25,7 +25,8 @@ There are many differnet ways to care for your online privacy. Social media can 
 **Method Two - Location Services**
 
 A lot of the apps and services we use today may now ask or in some cases even require the user to have their location services turned on. Depending on what you're doing and the reason the app uses these services, it is always good privacy practice to regulate what apps you give this permission to, and remeber to turn your location services off when not needed. Your location services can be found in the settings on your phone. It is also a good idea to check what apps are requesting your location data as some of them can be pointless. 
-![IOS Location Settings](/assets/servicesettings.JPG) TEST TEST TEST
+![IOS Location Settings](/assets/servicesettings.JPG) 
+<img src= "assets/servicesettings.JPG" width="50">
 
 
 
